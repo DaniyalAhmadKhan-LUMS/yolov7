@@ -1,6 +1,6 @@
-train: /yolov7/data2/approach1/train
-val:   /yolov7/data2/approach1/valid
-test:  /yolov7/data2/approach1/test
+train: /yolov7/data2/approach2/train
+val:   /yolov7/data2/approach2/valid
+test:  /yolov7/data2/approach2/test
 # number of classes
 nc: 4
 
